@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rabbit-Company/RabbitCompany-Website.git"
+    "url": "git+https://github.com/zigazajc007/PocketMonero.git"
   },
   "author": "Rabbit Company LLC",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/Rabbit-Company/RabbitCompany-Website/issues"
+    "url": "https://github.com/zigazajc007/PocketMonero/issues"
   },
-  "homepage": "https://github.com/Rabbit-Company/RabbitCompany-Website#readme",
+  "homepage": "https://github.com/zigazajc007/PocketMonero#readme",
   "devDependencies": {
     "tailwindcss": "^3.0.22"
   }
